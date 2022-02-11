@@ -34,8 +34,8 @@ app.use(express.json());
  */
 
 app.listen(PORT, () => {
-	console.log(`Listening on port ${PORT}`);
-
+	console.log(` SERVIDOR RODOU !!! ${PORT}`);
+	console.log("desafio 1 concluido, quebrei tudo!!!!!!!!!!!!!!!!");
   // Escreva aqui a sua msg para o mundo
   
 });
